@@ -38,6 +38,7 @@
     "@types/node-fetch": "^2.6.12",
     "@types/winston": "^2.4.4",
     "body-parser": "^2.2.0",
+    "caniuse-lite": "^1.0.30001715",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "compression": "^1.8.0",
@@ -62,6 +63,7 @@
     "sonner": "^2.0.3",
     "tailwind-merge": "^3.2.0",
     "winston": "^3.17.0",
+    "xlsx": "^0.18.5",
     "xss-clean": "^0.1.4",
     "zod": "^3.24.3"
   },
